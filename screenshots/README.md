@@ -1930,6 +1930,10 @@ The screenshots are categorized.
 
 ![Screenshot](/screenshots/rose-pine-dawn.png)
 
+### Sauber
+
+![Screenshot](/screenshots/sauber.png)
+
 ### SeedFlip Amethyst
 
 ![Screenshot](/screenshots/seedflip-amethyst.png)

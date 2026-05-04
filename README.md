@@ -1453,10 +1453,6 @@ The screenshots are categorized.
 
 ![Screenshot](/screenshots/sakura.png)
 
-### Sauber
-
-![Screenshot](/screenshots/sauber.png)
-
 ### Scarlet Protocol
 
 ![Screenshot](/screenshots/scarlet-protocol.png)
@@ -2126,6 +2122,10 @@ The screenshots are categorized.
 ### Rose Pine Dawn
 
 ![Screenshot](/screenshots/rose-pine-dawn.png)
+
+### Sauber
+
+![Screenshot](/screenshots/sauber.png)
 
 ### SeedFlip Amethyst
 
